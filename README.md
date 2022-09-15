@@ -24,4 +24,5 @@
 ```
 * 같은 숫자는 싫어 (solution1)
 * 로또의 최고 순위와 최저 순위 (solution2)
+* K번째수 (solution3)
 ```
