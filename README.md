@@ -26,4 +26,5 @@
 * 로또의 최고 순위와 최저 순위 (solution2)
 * K번째수 (solution3)
 * 음양 더하기 (solution4)
+* 숫자 문자열과 영단어 (solution5)
 ```
