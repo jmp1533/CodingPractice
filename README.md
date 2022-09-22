@@ -28,4 +28,5 @@
 * 음양 더하기 (solution4)
 * 숫자 문자열과 영단어 (solution5)
 * 모의고사 (solution6)
+* 약수의 합 (solution7)
 ```
