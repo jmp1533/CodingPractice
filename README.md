@@ -29,4 +29,5 @@
 * 숫자 문자열과 영단어 (solution5)
 * 모의고사 (solution6)
 * 약수의 합 (solution7)
+* 자연수 뒤집어 배열로 만들기 (solution8)
 ```
