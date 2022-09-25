@@ -30,4 +30,5 @@
 * 모의고사 (solution6)
 * 약수의 합 (solution7)
 * 자연수 뒤집어 배열로 만들기 (solution8)
+* 두 정수 사이의 합 (solution9)
 ```
