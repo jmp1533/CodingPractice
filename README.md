@@ -31,4 +31,7 @@
 * 약수의 합 (solution7)
 * 자연수 뒤집어 배열로 만들기 (solution8)
 * 두 정수 사이의 합 (solution9)
+* 최댓값과 최솟값 (solution10)
+* 올바른 괄호 (solution11)
+* 카펫 (solution12)
 ```
