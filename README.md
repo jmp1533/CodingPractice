@@ -34,4 +34,5 @@
 * 최댓값과 최솟값 (solution10)
 * 올바른 괄호 (solution11)
 * 카펫 (solution12)
+* 짝지어 제거하기 (solution13)
 ```
