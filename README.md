@@ -36,4 +36,5 @@
 * 카펫 (solution12)
 * 짝지어 제거하기 (solution13)
 * 나누어 떨어지는 숫자 배열 (solution14)
+* 최솟값 만들기 (solution15)
 ```
