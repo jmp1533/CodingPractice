@@ -2,7 +2,7 @@
 꾸준히 코딩 연습하기
 
 # Codility
-> Easy
+> ★
 ```
 * 반복 - BinaryGap
 * 배열 - OddOccurrencesInArray
@@ -20,7 +20,7 @@
 ------------
 
 # 프로그래머스
-> Easy
+> ★
 ```
 * 같은 숫자는 싫어 (solution1)
 * 로또의 최고 순위와 최저 순위 (solution2)
@@ -33,8 +33,13 @@
 * 두 정수 사이의 합 (solution9)
 * 최댓값과 최솟값 (solution10)
 * 올바른 괄호 (solution11)
-* 카펫 (solution12)
 * 짝지어 제거하기 (solution13)
 * 나누어 떨어지는 숫자 배열 (solution14)
 * 최솟값 만들기 (solution15)
+```
+
+> ★★
+```
+* 카펫 (solution12)
+* 위장 (solution16)
 ```
