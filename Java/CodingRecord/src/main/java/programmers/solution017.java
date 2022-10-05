@@ -17,9 +17,7 @@ n	result
 15	4
 */
 
-import java.util.*;
-
-public class solution17 {
+public class solution017 {
     public int solution(int n) {
         int answer = 1;
 

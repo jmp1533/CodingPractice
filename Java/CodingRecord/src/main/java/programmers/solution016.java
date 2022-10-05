@@ -30,7 +30,7 @@ clothes	return
 
 import java.util.*;
 
-public class solution16 {
+public class solution016 {
     public int solution(String[][] clothes) {
         int answer = 1;
         HashMap<String, Integer> map = new HashMap<>();

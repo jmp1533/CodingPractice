@@ -28,7 +28,7 @@ answers	return
 */
 
 import java.util.*;
-public class solution6 {
+public class solution006 {
     public int[] solution(int[] answers) {
         final int[] a = {1, 2, 3, 4, 5};
         final int[] b = {2, 1, 2, 3, 2, 4, 2, 5};

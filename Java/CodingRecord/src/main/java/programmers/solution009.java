@@ -10,7 +10,7 @@ a와 b는 -10,000,000 이상 10,000,000 이하인 정수입니다.
 a와 b의 대소관계는 정해져있지 않습니다.
 */
 
-public class solution9 {
+public class solution009 {
     public long solution(int a, int b) {
         long answer = 0;
         // a,b중 min/max값을 구하기

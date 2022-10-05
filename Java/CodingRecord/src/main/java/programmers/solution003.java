@@ -28,7 +28,7 @@ array	commands	return
 */
 
 import java.util.*;
-public class solution3 {
+public class solution003 {
     public int[] solution(int[] array, int[][] commands) {
         int[] answer = new int[commands.length];
 

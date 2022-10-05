@@ -13,10 +13,7 @@ n은 0 이상 3000이하인 정수입니다.
 5의 약수는 1, 5입니다. 이를 모두 더하면 6입니다.
 */
 
-import java.util.ArrayList;
-import java.util.List;
-
-public class solution7 {
+public class solution007 {
     public int solution(int n) {
         int answer = 0;
 

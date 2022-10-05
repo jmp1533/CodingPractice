@@ -20,7 +20,7 @@ arr	answer
 */
 
 import java.util.*;
-public class solution1 {
+public class solution001 {
     public int[] solution(int []arr) {
         ArrayList<Integer> list = new ArrayList<Integer>();
         list.add(arr[0]);

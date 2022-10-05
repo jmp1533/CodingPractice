@@ -58,8 +58,7 @@ lottos	win_nums	result
 실제로 사용되는 로또 순위의 결정 방식과는 약간 다르지만, 이 문제에서는 지문에 명시된 대로 로또 순위를 결정하도록 합니다.  ↩
 */
 
-import java.util.*;
-public class solution2 {
+public class solution002 {
     public int[] solution(int[] lottos, int[] win_nums) {
         int[] answer = new int[2];
 

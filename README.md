@@ -22,25 +22,26 @@
 # 프로그래머스
 > ★
 ```
-* 같은 숫자는 싫어 (solution1)
-* 로또의 최고 순위와 최저 순위 (solution2)
-* K번째수 (solution3)
-* 음양 더하기 (solution4)
-* 숫자 문자열과 영단어 (solution5)
-* 모의고사 (solution6)
-* 약수의 합 (solution7)
-* 자연수 뒤집어 배열로 만들기 (solution8)
-* 두 정수 사이의 합 (solution9)
-* 최댓값과 최솟값 (solution10)
-* 올바른 괄호 (solution11)
-* 짝지어 제거하기 (solution13)
-* 나누어 떨어지는 숫자 배열 (solution14)
-* 최솟값 만들기 (solution15)
+* 같은 숫자는 싫어 (solution001)
+* 로또의 최고 순위와 최저 순위 (solution002)
+* K번째수 (solution003)
+* 음양 더하기 (solution004)
+* 숫자 문자열과 영단어 (solution005)
+* 모의고사 (solution006)
+* 약수의 합 (solution007)
+* 자연수 뒤집어 배열로 만들기 (solution008)
+* 두 정수 사이의 합 (solution009)
+* 최댓값과 최솟값 (solution010)
+* 올바른 괄호 (solution011)
+* 짝지어 제거하기 (solution013)
+* 나누어 떨어지는 숫자 배열 (solution014)
+* 최솟값 만들기 (solution015)
 ```
 
 > ★★
 ```
-* 카펫 (solution12)
-* 위장 (solution16)
-* 숫자의 표현 (solution17)
+* 카펫 (solution012)
+* 위장 (solution016)
+* 숫자의 표현 (solution017)
+* 영어 끝말잇기 (solution018)
 ```

@@ -27,7 +27,7 @@ A	B	answer
 */
 
 import java.util.*;
-public class solution15 {
+public class solution015 {
     public int solution(int []A, int []B)
     {
         Integer[] BB = new Integer[B.length];

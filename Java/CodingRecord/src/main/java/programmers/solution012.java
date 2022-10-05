@@ -20,9 +20,7 @@ brown	yellow	return
 24	24	[8, 6]
 */
 
-import java.util.*;
-
-public class solution12 {
+public class solution012 {
     public int[] solution(int brown, int yellow) {
         int[] answer = new int[2];
         //격자의 총갯수 = brown+yellow

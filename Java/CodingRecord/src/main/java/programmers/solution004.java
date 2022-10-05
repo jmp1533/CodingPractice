@@ -25,9 +25,7 @@ signs가 [false,false,true] 이므로, 실제 수들의 값은 각각 -1, -2, 3�
 따라서 세 수의 합인 0을 return 해야 합니다.
 */
 
-import java.util.Arrays;
-
-public class solution4 {
+public class solution004 {
     public int solution(int[] absolutes, boolean[] signs) {
         int answer = 0;
 

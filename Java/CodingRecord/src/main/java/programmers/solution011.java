@@ -20,7 +20,7 @@ package programmers;
 */
 
 import java.util.*;
-public class solution11 {
+public class solution011 {
     boolean solution(String s) {
         Stack<Character> sk = new Stack<>();
 

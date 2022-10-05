@@ -32,7 +32,7 @@ return 값이 1 이상 2,000,000,000 이하의 정수가 되는 올바른 입력
 "123"	123
 */
 
-public class solution5 {
+public class solution005 {
     public int solution(String s) {
         int answer = 0;
 

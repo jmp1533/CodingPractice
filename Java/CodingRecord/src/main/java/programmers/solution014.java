@@ -18,7 +18,7 @@ arr	divisor	return
 */
 
 import java.util.*;
-public class solution14 {
+public class solution014 {
     public int[] solution(int[] arr, int divisor) {
         int[] answer = {};
         ArrayList<Integer> list = new ArrayList<>();

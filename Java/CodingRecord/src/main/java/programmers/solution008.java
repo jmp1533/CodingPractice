@@ -10,8 +10,7 @@ n	return
 12345	[5,4,3,2,1]
 */
 
-import java.util.*;
-public class solution8 {
+public class solution008 {
     public int[] solution(long n) {
         String str = Long.toString(n);
         int[] answer = new int[str.length()];
