@@ -5,26 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7575bd13-1e34-4895-9604-fb7442d72e7f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/CodingRecord/src/main/java/programmers/solution018.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/CodingRecord/src/main/java/programmers/solution019.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/CodingRecord/src/main/java/programmers/solution1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/CodingRecord/src/main/java/programmers/solution001.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/CodingRecord/src/main/java/programmers/solution10.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/CodingRecord/src/main/java/programmers/solution010.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/CodingRecord/src/main/java/programmers/solution11.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/CodingRecord/src/main/java/programmers/solution011.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/CodingRecord/src/main/java/programmers/solution12.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/CodingRecord/src/main/java/programmers/solution012.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/CodingRecord/src/main/java/programmers/solution13.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/CodingRecord/src/main/java/programmers/solution013.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/CodingRecord/src/main/java/programmers/solution14.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/CodingRecord/src/main/java/programmers/solution014.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/CodingRecord/src/main/java/programmers/solution15.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/CodingRecord/src/main/java/programmers/solution015.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/CodingRecord/src/main/java/programmers/solution16.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/CodingRecord/src/main/java/programmers/solution016.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/CodingRecord/src/main/java/programmers/solution17.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/CodingRecord/src/main/java/programmers/solution017.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/CodingRecord/src/main/java/programmers/solution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/CodingRecord/src/main/java/programmers/solution002.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/CodingRecord/src/main/java/programmers/solution3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/CodingRecord/src/main/java/programmers/solution003.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/CodingRecord/src/main/java/programmers/solution4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/CodingRecord/src/main/java/programmers/solution004.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/CodingRecord/src/main/java/programmers/solution5.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/CodingRecord/src/main/java/programmers/solution005.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/CodingRecord/src/main/java/programmers/solution6.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/CodingRecord/src/main/java/programmers/solution006.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/CodingRecord/src/main/java/programmers/solution7.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/CodingRecord/src/main/java/programmers/solution007.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/CodingRecord/src/main/java/programmers/solution8.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/CodingRecord/src/main/java/programmers/solution008.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/CodingRecord/src/main/java/programmers/solution9.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/CodingRecord/src/main/java/programmers/solution009.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,14 +42,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/ParkJiMin/CodingPractice/Java/CodingRecord/src/main/java/programmers"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/ParkJiMin/CodingPractice/Java/CodingRecord/src/main/java/programmers&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\ParkJiMin\CodingPractice\Java\CodingRecord\src\main\java\programmers" />
