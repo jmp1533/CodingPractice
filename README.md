@@ -25,6 +25,7 @@
 * 같은 숫자는 싫어 (solution020)
 * 제곱수 판별하기 (solution022)
 * 문자열 뒤집기 (solution023)
+* 모음 제거 (solution024)
 ```
 
 > ★
