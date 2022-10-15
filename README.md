@@ -45,6 +45,7 @@
 * 나누어 떨어지는 숫자 배열 (solution014)
 * 최솟값 만들기 (solution015)
 * 하샤드 수 (solution021)
+* 최빈값 구하기 (solution025)
 ```
 
 > ★★
