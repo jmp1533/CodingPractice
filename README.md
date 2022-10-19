@@ -48,6 +48,7 @@
 * 최빈값 구하기 (solution025)
 * 가장 큰 수 찾기 (solution026)
 * 합성수 찾기 (solution027)
+* 숨어있는 숫자의 덧셈 (solution028)
 ```
 
 > ★★
