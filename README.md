@@ -28,6 +28,7 @@
 * 모음 제거 (solution024)
 * 최댓값 만들기 (2) (solution030)
 * 외계행성의 나이 (solution031)
+* A로 B만들기 (solution032)
 ```
 
 > ★
