@@ -64,6 +64,7 @@
 * 완주하지 못한 선수 (solution033)
 * 두 개 뽑아서 더하기 (solution034)
 * 최소직사각형 (solution036)
+* 2016년 (solution037)
 ```
 
 > ★★
