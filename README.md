@@ -39,6 +39,7 @@
 * A로 B만들기 (solution032)
 * x만큼 간격이 있는 n개의 숫자 (solution035)
 * 제일 작은 수 제거하기 (solution038)
+* 가운데 글자 가져오기 (solution039)
 ```
 
 > ★
