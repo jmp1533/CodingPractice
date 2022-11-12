@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7575bd13-1e34-4895-9604-fb7442d72e7f" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/Java/CodingRecord/src/main/java/programmers/solution039.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/CodingRecord/src/main/java/programmers/solution040.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,11 +47,12 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/ParkJiMin/GitHub/CodingPractice&quot;
+    &quot;last_opened_file_path&quot;: &quot;D:/GitHub/CodingPractice/Java/CodingRecord/src/main/java/programmers&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GitHub\CodingPractice\Java\CodingRecord\src\main\java\programmers" />
       <recent name="D:\ParkJiMin\CodingPractice\Java\CodingRecord\src\main\java\programmers" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
