@@ -41,6 +41,7 @@
 * 제일 작은 수 제거하기 (solution038)
 * 가운데 글자 가져오기 (solution039)
 * 이상한 문자 만들기 (solution040)
+* 예산 (solution041)
 ```
 
 > ★
