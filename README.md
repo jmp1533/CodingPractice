@@ -79,4 +79,5 @@
 * 영어 끝말잇기 (solution018)
 * 주식가격 (solution019)
 * 분수의 덧셈 (solution029)
+* 124 나라의 숫자 (solution042)
 ```
