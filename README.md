@@ -72,6 +72,7 @@
 * 2016년 (solution037)
 * 문자열 내 마음대로 정렬하기 (solution043)
 * 시저 암호 (solution044)
+* 소수 찾기 (solution046)
 ```
 
 > ★★
