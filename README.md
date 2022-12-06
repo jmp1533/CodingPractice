@@ -46,6 +46,7 @@
 * 정수 제곱근 판별 (solution047)
 * 문자열 다루기 기본 (solution048)
 * 콜라츠 추측 (solution050)
+* 종이 자르기 (solution051)
 ```
 
 > ★
