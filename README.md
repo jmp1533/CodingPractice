@@ -78,6 +78,7 @@
 * 시저 암호 (solution044)
 * 소수 찾기 (solution046)
 * 최대공약수와 최소공배수 (solution049)
+* 등수 매기기 (solution052)
 ```
 
 > ★★
