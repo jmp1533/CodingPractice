@@ -30,6 +30,7 @@
 ```
 * 대칭 차집합 - baekjoon1269
 * 피보나치 수 5 - baekjoon10870
+* 구간 합 구하기 5 - baekjoon11660
 ```
 
 # Practice
