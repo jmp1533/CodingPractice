@@ -25,6 +25,7 @@
 * 제로 - baekjoon10773
 * 서로 다른 부분 문자열의 개수 - baekjoon11478
 * 커트라인 - baekjoon25305
+* 전자레인지 - baekjoon10162
 ```
 
 > ★
