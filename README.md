@@ -35,6 +35,7 @@
 * 구간 합 구하기 5 - baekjoon11660
 * 링 - baekjoon3036
 * 부녀회장이 될테야 - baekjoon2775
+* 회전하는 큐 - baekjoon1021
 ```
 
 # Practice
