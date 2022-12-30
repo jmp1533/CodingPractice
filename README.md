@@ -68,6 +68,7 @@
 * 콜라츠 추측 (solution050)
 * 종이 자르기 (solution051)
 * 정수 내림차순으로 배치하기 (solution053)
+* 멀리뛰기 (solution055)
 ```
 
 > ★
