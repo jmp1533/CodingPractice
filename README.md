@@ -104,6 +104,7 @@
 * 등수 매기기 (solution052)
 * 가장 가까운 같은 글자 (solution054)
 * 소수 만들기 (solution056)
+* 3진법 뒤집기 (solution057)
 ```
 
 > ★★
