@@ -39,6 +39,7 @@
 * 회전하는 큐 - baekjoon1021
 * 플로이드 - baekjoon11404
 * 절대값 힙 - baekjoon11286
+* 분해합 - baekjoon2231
 ```
 
 # Practice
