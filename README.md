@@ -40,6 +40,7 @@
 * 플로이드 - baekjoon11404
 * 절대값 힙 - baekjoon11286
 * 분해합 - baekjoon2231
+* 완전 이진 트리 - baekjoon9934
 ```
 
 # Practice

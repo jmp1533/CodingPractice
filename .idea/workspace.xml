@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7575bd13-1e34-4895-9604-fb7442d72e7f" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/Java/CodingRecord/src/main/java/programmers/solution058.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/CodingRecord/src/main/java/BaekJoon/baekjoon9934.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,8 +61,8 @@
       <recent name="D:\ParkJiMin\GitHub\CodingPractice\Java\CodingRecord\src\main\java\programmers" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="programmers" />
       <recent name="BaekJoon" />
+      <recent name="programmers" />
       <recent name="practice" />
     </key>
   </component>
