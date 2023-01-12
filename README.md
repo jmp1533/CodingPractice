@@ -41,6 +41,7 @@
 * 절대값 힙 - baekjoon11286
 * 분해합 - baekjoon2231
 * 완전 이진 트리 - baekjoon9934
+* 소문난 칠공주 - baekjoon1941
 ```
 
 # Practice
