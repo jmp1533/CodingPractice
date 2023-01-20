@@ -44,6 +44,7 @@
 * 완전 이진 트리 - baekjoon9934
 * 소문난 칠공주 - baekjoon1941
 * 돌멩이 제거 - baekjoon1867
+* 나는야 포켓몬 마스터 이다솜 - baekjoon1620
 ```
 
 # Practice
