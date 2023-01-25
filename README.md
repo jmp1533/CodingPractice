@@ -29,6 +29,7 @@
 * 요세푸는 문제0 - baekjoon11866
 * 한수 - baekjoon1065
 * 듣보잡 - baekjoon1764
+* 블랙잭 - baekjoon2798
 ```
 
 > ★
