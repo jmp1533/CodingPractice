@@ -30,6 +30,7 @@
 * 한수 - baekjoon1065
 * 듣보잡 - baekjoon1764
 * 블랙잭 - baekjoon2798
+* 오등큰수 - baekjoon17299
 ```
 
 > ★
