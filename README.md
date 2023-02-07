@@ -54,6 +54,7 @@
 * 줄 세우기 - baekjoon2252
 * 후위 표기식 - baekjoon1918
 * 열혈강호2 - baekjoon11376
+* 여행 가자 - baekjoon1976
 ```
 
 # Practice
