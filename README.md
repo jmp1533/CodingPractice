@@ -55,6 +55,7 @@
 * 후위 표기식 - baekjoon1918
 * 열혈강호2 - baekjoon11376
 * 여행 가자 - baekjoon1976
+* 우수 마을 - baekjoon1949
 ```
 
 # Practice
