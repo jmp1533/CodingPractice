@@ -57,6 +57,7 @@
 * 여행 가자 - baekjoon1976
 * 우수 마을 - baekjoon1949
 * 트리와 쿼리 - baekjoon15681
+* 전단지 돌리기 - baekjoon19542
 ```
 
 # Practice
