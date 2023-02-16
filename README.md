@@ -33,6 +33,7 @@
 * 오등큰수 - baekjoon17299
 * 좌표 압축 - baekjoon18870
 * 단어 뒤집기2 - baekjoon17413
+* 예산 - baekjoon2512
 ```
 
 > ★
