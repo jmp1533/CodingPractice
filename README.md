@@ -35,6 +35,7 @@
 * 단어 뒤집기2 - baekjoon17413
 * 예산 - baekjoon2512
 * 좋은 친구 - baekjoon3078
+* 안정적인 문자열 - baekjoon4889
 ```
 
 > ★
