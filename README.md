@@ -37,6 +37,7 @@
 * 좋은 친구 - baekjoon3078
 * 안정적인 문자열 - baekjoon4889
 * 외계인의 기타 연주 - baekjoon2841
+* 이진 검색 트리 - baekjoon5639
 ```
 
 > ★
