@@ -65,6 +65,7 @@
 * 트리와 쿼리 - baekjoon15681
 * 전단지 돌리기 - baekjoon19542
 * 트리의 부모 찾기 - baekjoon11725
+* 트리의 지름 - baekjoon1967
 ```
 
 # Practice
