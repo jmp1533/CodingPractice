@@ -66,6 +66,7 @@
 * 전단지 돌리기 - baekjoon19542
 * 트리의 부모 찾기 - baekjoon11725
 * 트리의 지름 - baekjoon1967
+* 알고리즘 수업 - 깊이 우선 탐색 1 - baekjoon24479
 ```
 
 # Practice
