@@ -39,6 +39,7 @@
 * 외계인의 기타 연주 - baekjoon2841
 * 이진 검색 트리 - baekjoon5639
 * 하노이 탑 이동 순서 - baekjoon11729
+* 베르트랑 공준 - baekjoon4948
 ```
 
 > ★
