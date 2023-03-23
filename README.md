@@ -41,6 +41,7 @@
 * 하노이 탑 이동 순서 - baekjoon11729
 * 베르트랑 공준 - baekjoon4948
 * 손익분기점 - baekjoon1712
+* 학생 번호 - baekjoon1235
 ```
 
 > ★
