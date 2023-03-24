@@ -72,6 +72,7 @@
 * 알고리즘 수업 - 깊이 우선 탐색 1 - baekjoon24479
 * 영역 구하기 - baekjoon2583
 * 경비원 - baekjoon2564
+* 점프왕 쩰리(Small) - baekjoon16173
 ```
 
 > ★★
