@@ -42,6 +42,7 @@
 * 베르트랑 공준 - baekjoon4948
 * 손익분기점 - baekjoon1712
 * 학생 번호 - baekjoon1235
+* 인간-컴퓨터 상호작용 - baekjoon16139
 ```
 
 > ★
