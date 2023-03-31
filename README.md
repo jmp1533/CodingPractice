@@ -43,6 +43,7 @@
 * 손익분기점 - baekjoon1712
 * 학생 번호 - baekjoon1235
 * 인간-컴퓨터 상호작용 - baekjoon16139
+* 미친 로봇 - baekjoon1405
 ```
 
 > ★
