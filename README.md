@@ -47,6 +47,7 @@
 * 평범한 배낭 - baekjoon12865
 * 앱 - baekjoon7579
 * 양팔저울 - baekjoon2629
+* 동전 - baekjoon9084
 ```
 
 > ★
