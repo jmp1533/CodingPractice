@@ -79,6 +79,7 @@
 * 영역 구하기 - baekjoon2583
 * 경비원 - baekjoon2564
 * 점프왕 쩰리(Small) - baekjoon16173
+* 도시 분할 계획 - baekjoon1647
 ```
 
 > ★★
