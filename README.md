@@ -49,7 +49,6 @@
 * 양팔저울 - baekjoon2629
 * 동전 - baekjoon9084
 * 문제집 - baekjoon1766
-* 음악프로그램 - baekjoon2623
 ```
 
 > ★
@@ -82,6 +81,8 @@
 * 경비원 - baekjoon2564
 * 점프왕 쩰리(Small) - baekjoon16173
 * 도시 분할 계획 - baekjoon1647
+* 음악프로그램 - baekjoon2623
+* 작업 - baekjoon2056
 ```
 
 > ★★
