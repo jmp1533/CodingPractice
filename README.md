@@ -84,6 +84,7 @@
 * 음악프로그램 - baekjoon2623
 * 작업 - baekjoon2056
 * 선수과목 (Prerequisite) - baekjoon14567
+* 장난감 조립 - baekjoon2637
 ```
 
 > ★★
