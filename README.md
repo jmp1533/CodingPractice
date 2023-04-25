@@ -51,6 +51,7 @@
 * 문제집 - baekjoon1766
 * 풍선 터뜨리기 - baekjoon2346
 * 합이 0인 네 정수 - baekjoon7453
+* 슈퍼 마리오 - baekjoon2851
 ```
 
 > ★
