@@ -55,6 +55,7 @@
 * 개똥벌레 - baekjoon3020
 * 회의실배정 - baekjoon1931
 * A→B - baekjoon16953
+* 단어 수학 - baekjoon1339
 ```
 
 > ★
