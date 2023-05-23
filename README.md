@@ -57,6 +57,7 @@
 * A→B - baekjoon16953
 * 단어 수학 - baekjoon1339
 * 기타줄 - baekjoon1049
+* 연산자 끼워넣기 - baekjoon14888
 ```
 
 > ★
