@@ -59,6 +59,7 @@
 * 기타줄 - baekjoon1049
 * 연산자 끼워넣기 - baekjoon14888
 * 바이러스 - baekjoon2606
+* 촌수계산 - baekjoon2644
 ```
 
 > ★
