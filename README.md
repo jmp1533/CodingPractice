@@ -62,6 +62,7 @@
 * 촌수계산 - baekjoon2644
 * 그림 - baekjoon1926
 * 차이를 최대로 - baekjoon10819
+* 가르침 - baekjoon1062
 ```
 
 > ★
