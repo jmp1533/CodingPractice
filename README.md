@@ -63,6 +63,7 @@
 * 그림 - baekjoon1926
 * 차이를 최대로 - baekjoon10819
 * 가르침 - baekjoon1062
+* 신기한 소수 - baekjoon2023
 ```
 
 > ★
