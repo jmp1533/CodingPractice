@@ -103,6 +103,7 @@
 * 작업 - baekjoon2056
 * 선수과목 (Prerequisite) - baekjoon14567
 * 장난감 조립 - baekjoon2637
+* 알고스팟 - baekjoon1261
 ```
 
 > ★★
