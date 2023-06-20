@@ -110,6 +110,7 @@
 > ★★
 ```
 * 친구 네트워크 - baekjoon4195
+* 최소비용 구하기 2 - baekjoon11779
 ```
 
 # Practice
